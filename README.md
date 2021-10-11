@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mal677
+- 👀 I’m interested in java,javafx,C,linux,Systems programming..
+- 🌱 I’m currently learning systems programming
